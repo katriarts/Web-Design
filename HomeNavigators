@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<title>Ate Kathy's Life</title>
+<body style="background-image:url('aaron-burden-251007-unsplash.jpg');background-repeat:no-repeat;background-size:cover;">
+<head>
+
+<style>
+div.a {
+	line-height: 0.5;
+}
+
+</style>
+</head>
+</body>
+
+<p><b><h1 style="font-family:Gabriola;font-size:500%;text-align:center;color:white"><div class="a">Ate Kathy's Life</div></h1></b>
+<h1 style="font-family:Gabriola;font-size:200%;text-align:center;color:white;"><div class="a">by: Kathy Austria</div></h1>
+
+<style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.centerimage
+
+{   display: block;
+	margin: auto;
+	align: center;
+}
+{
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #479059;
+}
+
+.topnav a {
+  float: left;
+  color: #eef7ee;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #cbe7cb;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #96cf96;
+  color: white;
+}
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color:rgb(102, 102, 51, 0.5) ;
+	color: white;
+	text-align: center;
+	font-size: 70%;
+}
+.text {
+	
+	background-color: #608f47;
+	color: black;
+}
+
+
+</style>
+</head>
+<body>
+
+
+
+<div class="topnav">
+  <b><a class="active" href="#a-cup-of-happiness">HOME </a></b>
+  
+<div class="topnav">  
+  <b><a href="projects2.html" target="_blank">Projects</a></b>
+  
+<div class="topnav">
+  <b><a href="about-me.html" target="_blank">About Me</a></b>
+  
+<div class="topnav">
+  <b><a href=" https://drive.google.com/open?id=1EGk82uL1auXC-Vycv4aA3ftKSaVRzSzD " target="_blank">My Resume</a></b>
+  
+<div class="topnav">
+  <b><a href="university-classes.html" target="_blank">University Classes</a></b>
+  
+<div class="topnav">
+  <b><a href="my-college.html" target="_blank">My School</a></b>
+  
+<div class="topnav">
+  <b><a href="college-life.html" target="_blank">College Life</a></b>
+  
+</div>
+</style>
+</body>
+
+</head>
+
+
+<footer>  
+
+  <div class="footer">
+  
+    <b><p><a> SOCIAL MEDIA ACCOUNTS: </a></b> 
+	<b><a href="https://tapas.io/KatRia" target="_blank">  TAPASTIC  </a></b>
+	<b><a href="http://www.webtoons.com/en/challenge/sweetish-layfu/list?title_no=37382" target="_blank">  WEBTOONS  </a></b>
+	<b><a href="https://www.instagram.com/katriarts_02" target="_blank" >  INSTAGRAM  </a></b>
+	<b><a href="http://katriarts.tumblr.com/" target="_blank">  TUMBLR  </a></b>
+	<b><a href="https://freesweetishinspiration.wordpress.com/" target="_blank">  WORDPRESS  </a></b>
+	<b><a href="https://www.youtube.com/channel/UCGrExDXDSHNmSlcoUdncbKA?view_as=subscriber" target="_blank">  YOUTUBE  </a></p></b>
+  </div>
+</div>
+
+
+	
+
+</body>
+</html>
